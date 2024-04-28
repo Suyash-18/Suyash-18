@@ -1,4 +1,4 @@
-![image](https://github.com/Suyash-18/Suyash-18/assets/154675911/7ecd8dd7-b55c-44f2-ab01-6c2dbbad335a)
+![image](https://github.com/Suyash-18/Suyash-18/assets/154675911/3e97e34d-6705-497d-95b7-1caef7e10a1c)
 
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning MERN Development.
